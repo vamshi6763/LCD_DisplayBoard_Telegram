@@ -4,8 +4,8 @@ CTBot myBot;
 
 LiquidCrystal lcd(D1,D2,D3,D5,D6,D7);
 
-String ssid  = "xxxxxxxxx";
-String pass  = "xxxxxxxxx";
+String ssid  = "WIFI_SSID";
+String pass  = "WIFI_PSWD";
 String token = "xxxxxxxxxx:xxxxxxxxxxxxxxxxxxxxxxxxx";
 String s="";
 
